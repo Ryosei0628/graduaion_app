@@ -1,6 +1,6 @@
 figmaリンク:https://www.figma.com/design/AuAEyAjylxzGkaqfW0t9UO/%E7%84%A1%E9%A1%8C?node-id=0-1&node-type=CANVAS&t=mjTnGWzjartEAg4G-0
 
-ER図リンク:https://drive.google.com/file/d/1JCJP16n9allh7lBXzLe2H8dpN4UHPBZ6/view?usp=sharing
+ER図:https://drive.google.com/file/d/1JCJP16n9allh7lBXzLe2H8dpN4UHPBZ6/view?usp=sharing
 
 
 ■サービス概要 どんなサービスなのかを３行で説明してください。
